@@ -2,7 +2,7 @@
 A 4-channel, 100 pF capacitance DAQ with active shielding designed for Soft Elastomeric Capacitor (SEC) sensors.
 
 <p align="center">
-<img src="image.jpg" alt="drawing" width="450"/>
+<img src="image.png" alt="drawing" width="450"/>
 </p>
 <p align="center">
 </p>
