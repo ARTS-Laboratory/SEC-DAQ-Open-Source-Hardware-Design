@@ -1,12 +1,13 @@
 # SEC DAQ
 A 4-channel, 100 pF capacitance DAQ with active shielding designed for Soft Elastomeric Capacitor (SEC) sensors.
 
-
 <p align="center">
 <img src="image.jpg" alt="drawing" width="450"/>
 </p>
 <p align="center">
 </p>
+
+This data acquisition can measure SECs in the range of 15-115 pF, with an asynchronous sampling speed of 400 S/s on a single channel.
 
 ## Hardware design notes
 
