@@ -9,6 +9,11 @@ A 4-channel, 100 pF capacitance DAQ with active shielding designed for Soft Elas
 
 This data acquisition can measure SECs in the range of 15-115 pF, with an asynchronous sampling speed of 400 S/s on a single channel.
 
+This hardware was used in various papers, including:
+1. Downey, Austin, Anna Laura Pisello, Elena Fortunati, Claudia Fabiani, Francesca Luzi, Luigi Torre, Filippo Ubertini, and Simon Laflamme. "Durability and weatherability of a styrene-ethylene-butylene-styrene (SEBS) block copolymer-based sensing skin for civil infrastructure applications." Sensors and Actuators A: Physical 293 (2019): 269-280.
+1. Downey, Austin, Mohammadkazem Sadoughi, Simon Laflamme, and Chao Hu. "Fusion of sensor geometry into additive strain fields measured with sensing skin." Smart Materials and Structures 27, no. 7 (2018): 075033.
+1. Yan, Jin, Austin Downey, Alessandro Cancelli, Simon Laflamme, An Chen, Jian Li, and Filippo Ubertini. "Concrete crack detection and monitoring using a capacitive dense sensor array." Sensors 19, no. 8 (2019): 1843.
+
 ## Hardware design notes
 
 ### v0.9.0
