@@ -21,7 +21,7 @@ This hardware was used in various papers, including:
 1. Contains the 2-board PCB design
 
 ### v0.9.1
-1. This is the final version of the internal development. 
+1. This is stable release. 
 1. A 4-channel SEC DAC with isolated signal
 
 ### v0.9.2 (future version)
@@ -45,8 +45,7 @@ Improvements needed
 
 
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
