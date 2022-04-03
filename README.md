@@ -47,15 +47,14 @@ Improvements needed
 Cite as
 
 @Misc{Downey2018SECDAQ, 
-  author = {Austin Downey},
-  month  = apr,
-  title  = {{SEC} {DAQ} Open Source Hardware Design},
-  year   = {2018},
-  groups = {The ARTS-Lab at the University of South Carolina},
-  url    = {https://github.com/ARTS-Laboratory/SEC_DAQ},
+  author = {Austin Downey},  
+  howpublished = {GitHub},  
+  month  = apr,  
+  title  = {{SEC} {DAQ} Open Source Hardware Design},  
+  year   = {2018},  
+  groups = {The ARTS-Lab at the University of South Carolina},  
+  url    = {https://github.com/ARTS-Laboratory/SEC_DAQ},  
 }
-
-
 
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
