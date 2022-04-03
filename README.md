@@ -53,7 +53,7 @@ Cite as
   title  = {{SEC} {DAQ} Open Source Hardware Design},  
   year   = {2018},  
   groups = {The ARTS-Lab at the University of South Carolina},  
-  url    = {https://github.com/ARTS-Laboratory/SEC_DAQ},  
+  url    = {https://github.com/ARTS-Laboratory/SEC-DAQ-Open-Source-Hardware-Design},  
 }
 
 
