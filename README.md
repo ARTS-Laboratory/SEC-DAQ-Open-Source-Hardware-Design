@@ -43,26 +43,29 @@ Improvements needed
 1. Add LED to the trigger circuit to help with trouble shooting (check current draw problems)
 
 
+## Licensing and Citation
 
-Cite as
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-@Misc{Downey2018SECDAQ, 
-  author = {Austin Downey},  
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
+Cite as:
+
+@Misc{Downey2018SECDAQ,   
+  author       = {Austin Downey},   
   howpublished = {GitHub},  
-  month  = apr,  
-  title  = {{SEC} {DAQ} Open Source Hardware Design},  
-  year   = {2018},  
-  groups = {The ARTS-Lab at the University of South Carolina},  
-  url    = {https://github.com/ARTS-Laboratory/SEC-DAQ-Open-Source-Hardware-Design},  
+  month        = apr,   
+  title        = {{SEC} {DAQ} Open Source Hardware Design},   
+  year         = {2018},  
+  groups       = {{ARTS-L}ab},  
+  url          = {https://github.com/ARTS-Laboratory/SEC-DAQ-Open-Source-Hardware-Design},  
 }
-
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-
-
 
 
 
