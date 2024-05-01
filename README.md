@@ -60,9 +60,7 @@ Cite as:
 @Misc{Downey2018SECDAQ,   
   author       = {Austin Downey},   
   howpublished = {GitHub},  
-  month        = apr,   
   title        = {{SEC} {DAQ} Open Source Hardware Design},   
-  year         = {2018},  
   groups       = {{ARTS-L}ab},  
   url          = {https://github.com/ARTS-Laboratory/SEC-DAQ-Open-Source-Hardware-Design},  
 }
