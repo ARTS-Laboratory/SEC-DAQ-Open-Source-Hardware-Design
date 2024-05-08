@@ -57,7 +57,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{Downey2018SECDAQ,   
+@Misc{DowneySECDAQ,   
   author       = {Austin Downey},   
   howpublished = {GitHub},  
   title        = {{SEC} {DAQ} Open Source Hardware Design},   
