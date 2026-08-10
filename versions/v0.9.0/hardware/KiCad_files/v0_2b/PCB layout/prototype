@@ -1,0 +1,40 @@
+Source,/home/downey/Documents/IESS/Data_logger/Single_board_DAQ/v0.1/prototype.sch
+Kicad Rev,Eeschema 4.0.4+e1-6308~48~ubuntu14.04.1-stable
+Generated Date,Sat 15 Oct 2016 10:10:26 AM CEST
+
+Title,Single Board DAQ
+Company,IESS
+Revision,V0.1
+Date Issue,2016-10-15
+
+Reference,Value,Library,Library Ref
+P2,CONN_01X12,conn,CONN_01X12
+P1,CONN_01X02,conn,CONN_01X02
+R1,0k1,device,R
+R7,10k,device,R
+S_Range1,DIPS_02,dips-s,DIPS_02
+R6,10k,device,R
+R8,10k,device,R
+S_Channel1,DIPS_02,dips-s,DIPS_02
+S_Sample1,DIPS_02,dips-s,DIPS_02
+R5,10k,device,R
+R4,10k,device,R
+R3,10k,device,R
+R2,10k,device,R
+S_Ground1,DIPS_01,dips-s,DIPS_01
+S_Trigger1,DIPS_01,dips-s,DIPS_01
+P3,CONN_01X10,conn,CONN_01X10
+U2,FDC1004custom,Downey,FDC1004custom
+RI2C1,4k7,device,R
+RI2C2,4k7,device,R
+L1,1uH,device,INDUCTOR
+C3,100uF,device,C
+C5,10uF,device,C
+C6,1uF,device,C
+C7,0.1uF,device,C
+C1,1uF,device,C
+C2,0.1uF,device,C
+C4,51pF,device,C
+U1,EL3H7,Downey,EL3H7
+P5,CONN_01X01,conn,CONN_01X01
+P4,CONN_01X01,conn,CONN_01X01

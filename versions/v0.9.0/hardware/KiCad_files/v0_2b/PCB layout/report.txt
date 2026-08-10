@@ -1,0 +1,298 @@
+Info: Reading netlist file "/home/downey/Documents/IESS/Data_logger/Single_board_DAQ/v0.1/prototype.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/57FAB003:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C1:/57FAB003" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C1:/57FAB003" pin "1" net name from "" to "+3V3".
+
+Changing component "C1:/57FAB003" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C2:/57FAB325:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C2:/57FAB325" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C2:/57FAB325" pin "1" net name from "" to "+3V3".
+
+Changing component "C2:/57FAB325" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C3:/57FA96A1:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C3:/57FA96A1" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C3:/57FA96A1" pin "1" net name from "" to "+3V3".
+
+Changing component "C3:/57FA96A1" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C4:/57FABCA3:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C4:/57FABCA3" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C4:/57FABCA3" pin "1" net name from "" to "Net-(C4-Pad1)".
+
+Changing component "C4:/57FABCA3" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C5:/57FA9701:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C5:/57FA9701" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C5:/57FA9701" pin "1" net name from "" to "+3V3".
+
+Changing component "C5:/57FA9701" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C6:/57FA977B:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C6:/57FA977B" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C6:/57FA977B" pin "1" net name from "" to "+3V3".
+
+Changing component "C6:/57FA977B" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "C7:/57FA97DE:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C7:/57FA97DE" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C7:/57FA97DE" pin "1" net name from "" to "+3V3".
+
+Changing component "C7:/57FA97DE" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "L1:/57FA9608:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "L1:/57FA9608" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "L1:/57FA9608" pin "1" net name from "" to "+3V3".
+
+Changing component "L1:/57FA9608" pin "2" net name from "" to "+3V3".
+
+Info: Checking netlist component footprint "P1:/57FA0621:Pin_Headers:Pin_Header_Straight_1x02_Pitch2.00mm".
+
+Adding new component "P1:/57FA0621" footprint "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.00mm".
+
+Changing component "P1:/57FA0621" pin "1" net name from "" to "Net-(P1-Pad1)".
+
+Changing component "P1:/57FA0621" pin "2" net name from "" to "Net-(P1-Pad2)".
+
+Info: Checking netlist component footprint "P2:/57F9FFFE:Downey:3M_12POS_ribbon_conn".
+
+Adding new component "P2:/57F9FFFE" footprint "Downey:3M_12POS_ribbon_conn".
+
+Changing component "P2:/57F9FFFE" pin "1" net name from "" to "GNDA".
+
+Changing component "P2:/57F9FFFE" pin "2" net name from "" to "+5V".
+
+Changing component "P2:/57F9FFFE" pin "3" net name from "" to "+3V3".
+
+Changing component "P2:/57F9FFFE" pin "4" net name from "" to "SDA".
+
+Changing component "P2:/57F9FFFE" pin "5" net name from "" to "SCL".
+
+Changing component "P2:/57F9FFFE" pin "6" net name from "" to "Net-(P2-Pad6)".
+
+Changing component "P2:/57F9FFFE" pin "7" net name from "" to "Net-(P2-Pad7)".
+
+Changing component "P2:/57F9FFFE" pin "8" net name from "" to "Net-(P2-Pad8)".
+
+Changing component "P2:/57F9FFFE" pin "9" net name from "" to "Net-(P2-Pad9)".
+
+Changing component "P2:/57F9FFFE" pin "10" net name from "" to "Net-(P2-Pad10)".
+
+Changing component "P2:/57F9FFFE" pin "11" net name from "" to "Net-(P2-Pad11)".
+
+Changing component "P2:/57F9FFFE" pin "12" net name from "" to "trigger".
+
+Info: Checking netlist component footprint "P3:/57FA3DE5:Downey:SMD_DSUB_9_female".
+
+Adding new component "P3:/57FA3DE5" footprint "Downey:SMD_DSUB_9_female".
+
+Changing component "P3:/57FA3DE5" pin "10" net name from "" to "Net-(P3-Pad10)".
+
+Changing component "P3:/57FA3DE5" pin "9" net name from "" to "Net-(C4-Pad1)".
+
+Changing component "P3:/57FA3DE5" pin "8" net name from "" to "GNDA".
+
+Changing component "P3:/57FA3DE5" pin "7" net name from "" to "Net-(P3-Pad7)".
+
+Changing component "P3:/57FA3DE5" pin "6" net name from "" to "GNDA".
+
+Changing component "P3:/57FA3DE5" pin "5" net name from "" to "Net-(P3-Pad5)".
+
+Changing component "P3:/57FA3DE5" pin "4" net name from "" to "GNDA".
+
+Changing component "P3:/57FA3DE5" pin "3" net name from "" to "Net-(P3-Pad3)".
+
+Changing component "P3:/57FA3DE5" pin "2" net name from "" to "GNDA".
+
+Changing component "P3:/57FA3DE5" pin "1" net name from "" to "Net-(P3-Pad1)".
+
+Changing component "P3:/57FA3DE5" pin "10" net name from "" to "Net-(P3-Pad10)".
+
+Info: Checking netlist component footprint "R1:/57FA0735:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R1:/57FA0735" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R1:/57FA0735" pin "1" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "R1:/57FA0735" pin "2" net name from "" to "Net-(P1-Pad2)".
+
+Info: Checking netlist component footprint "R2:/57FA222C:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R2:/57FA222C" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R2:/57FA222C" pin "1" net name from "" to "Net-(P2-Pad11)".
+
+Changing component "R2:/57FA222C" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "R3:/57FA2141:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R3:/57FA2141" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R3:/57FA2141" pin "1" net name from "" to "Net-(P2-Pad10)".
+
+Changing component "R3:/57FA2141" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "R4:/57FA20F1:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R4:/57FA20F1" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R4:/57FA20F1" pin "1" net name from "" to "Net-(P2-Pad9)".
+
+Changing component "R4:/57FA20F1" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "R5:/57FA20A4:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R5:/57FA20A4" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R5:/57FA20A4" pin "1" net name from "" to "Net-(P2-Pad8)".
+
+Changing component "R5:/57FA20A4" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "R6:/57FA1675:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R6:/57FA1675" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R6:/57FA1675" pin "1" net name from "" to "Net-(P2-Pad7)".
+
+Changing component "R6:/57FA1675" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "R7:/57FA0A56:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R7:/57FA0A56" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R7:/57FA0A56" pin "1" net name from "" to "+5V".
+
+Changing component "R7:/57FA0A56" pin "2" net name from "" to "trigger".
+
+Info: Checking netlist component footprint "R8:/57FA16D4:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "R8:/57FA16D4" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "R8:/57FA16D4" pin "1" net name from "" to "Net-(P2-Pad6)".
+
+Changing component "R8:/57FA16D4" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "RI2C1:/57FA72A6:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "RI2C1:/57FA72A6" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "RI2C1:/57FA72A6" pin "1" net name from "" to "+3V3".
+
+Changing component "RI2C1:/57FA72A6" pin "2" net name from "" to "SDA".
+
+Info: Checking netlist component footprint "RI2C2:/57FA7321:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "RI2C2:/57FA7321" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "RI2C2:/57FA7321" pin "1" net name from "" to "+3V3".
+
+Changing component "RI2C2:/57FA7321" pin "2" net name from "" to "SCL".
+
+Info: Checking netlist component footprint "S_Channel1:/57FA1B0F:Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Adding new component "S_Channel1:/57FA1B0F" footprint "Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Changing component "S_Channel1:/57FA1B0F" pin "1" net name from "" to "Net-(P2-Pad9)".
+
+Changing component "S_Channel1:/57FA1B0F" pin "2" net name from "" to "Net-(P2-Pad8)".
+
+Changing component "S_Channel1:/57FA1B0F" pin "3" net name from "" to "+5V".
+
+Changing component "S_Channel1:/57FA1B0F" pin "4" net name from "" to "+5V".
+
+Info: Checking netlist component footprint "S_Ground1:/57FA3888:Buttons_Switches_ThroughHole:SW_DIP_x1_Slide".
+
+Adding new component "S_Ground1:/57FA3888" footprint "Buttons_Switches_ThroughHole:SW_DIP_x1_Slide".
+
+Changing component "S_Ground1:/57FA3888" pin "1" net name from "" to "Net-(P3-Pad10)".
+
+Changing component "S_Ground1:/57FA3888" pin "2" net name from "" to "GNDA".
+
+Info: Checking netlist component footprint "S_Range1:/57FA13E3:Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Adding new component "S_Range1:/57FA13E3" footprint "Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Changing component "S_Range1:/57FA13E3" pin "1" net name from "" to "Net-(P2-Pad7)".
+
+Changing component "S_Range1:/57FA13E3" pin "2" net name from "" to "Net-(P2-Pad6)".
+
+Changing component "S_Range1:/57FA13E3" pin "3" net name from "" to "+5V".
+
+Changing component "S_Range1:/57FA13E3" pin "4" net name from "" to "+5V".
+
+Info: Checking netlist component footprint "S_Sample1:/57FA1BAD:Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Adding new component "S_Sample1:/57FA1BAD" footprint "Housings_DIP:DIP-4_W7.62mm_LongPads".
+
+Changing component "S_Sample1:/57FA1BAD" pin "1" net name from "" to "Net-(P2-Pad11)".
+
+Changing component "S_Sample1:/57FA1BAD" pin "2" net name from "" to "Net-(P2-Pad10)".
+
+Changing component "S_Sample1:/57FA1BAD" pin "3" net name from "" to "+5V".
+
+Changing component "S_Sample1:/57FA1BAD" pin "4" net name from "" to "+5V".
+
+Info: Checking netlist component footprint "S_Trigger1:/57FA3B05:Buttons_Switches_ThroughHole:SW_DIP_x1_Slide".
+
+Adding new component "S_Trigger1:/57FA3B05" footprint "Buttons_Switches_ThroughHole:SW_DIP_x1_Slide".
+
+Changing component "S_Trigger1:/57FA3B05" pin "1" net name from "" to "GNDA".
+
+Changing component "S_Trigger1:/57FA3B05" pin "2" net name from "" to "trigger".
+
+Info: Checking netlist component footprint "U1:/57FAE758:Downey:EL3H7".
+
+Adding new component "U1:/57FAE758" footprint "Downey:EL3H7".
+
+Changing component "U1:/57FAE758" pin "4" net name from "" to "trigger".
+
+Changing component "U1:/57FAE758" pin "1" net name from "" to "Net-(R1-Pad1)".
+
+Changing component "U1:/57FAE758" pin "3" net name from "" to "GNDA".
+
+Changing component "U1:/57FAE758" pin "2" net name from "" to "Net-(P1-Pad1)".
+
+Info: Checking netlist component footprint "U2:/57FA6132:Downey:SOIC_10_FDC1004".
+
+Adding new component "U2:/57FA6132" footprint "Downey:SOIC_10_FDC1004".
+
+Changing component "U2:/57FA6132" pin "10" net name from "" to "SDA".
+
+Changing component "U2:/57FA6132" pin "1" net name from "" to "Net-(C4-Pad1)".
+
+Changing component "U2:/57FA6132" pin "9" net name from "" to "SCL".
+
+Changing component "U2:/57FA6132" pin "2" net name from "" to "Net-(P3-Pad1)".
+
+Changing component "U2:/57FA6132" pin "8" net name from "" to "+3V3".
+
+Changing component "U2:/57FA6132" pin "3" net name from "" to "Net-(P3-Pad3)".
+
+Changing component "U2:/57FA6132" pin "7" net name from "" to "GNDA".
+
+Changing component "U2:/57FA6132" pin "4" net name from "" to "Net-(P3-Pad5)".
+
+Changing component "U2:/57FA6132" pin "6" net name from "" to "Net-(U2-Pad6)".
+
+Changing component "U2:/57FA6132" pin "5" net name from "" to "Net-(P3-Pad7)".
+
