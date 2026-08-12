@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "prototype-rescue")(type "Legacy")(uri "${KIPRJMOD}/prototype-rescue.lib")(options "")(descr ""))
+)
